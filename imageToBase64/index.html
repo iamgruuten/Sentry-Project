@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Image to base64</title>
+    </head>
+    <body>
+        <!--Insert image here-->
+        <img id="img" src="tiger.png">
+
+        <!--base64 displayed here-->
+        <textarea id="result" rows="25" cols="50"></textarea>
+
+        <!--Converts image to base64-->
+        <script>
+            var img = document.getElementById("img");
+            img.crossOrigin = "Anonymous";
+            img.onload = function(){
+                var canvas = document.createElement("canvas");
+                var ctx = canvas.getContext("2d");
+                canvas.height = this.naturalHeight;
+                canvas.width = this.naturalWidth;
+                ctx.drawImage(this,0,0);
+                var data = canvas.toDataURL("image.jpeg");
+                document.getElementById("result").value = data;
+            };
+        </script>
+    </body>
+</html>
