@@ -32,6 +32,8 @@
   </ol>
 </details>
 
+___
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -55,8 +57,14 @@ Here's why:
 
 * Costly and inefficient to have humans constantly checking SafeEntry log
 
+___
+
+
 Here's a video about the project
+
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/8ZUMHWBw9uo)
+
+___
 
 ### Built With
 
@@ -66,6 +74,7 @@ Here's a video about the project
 * [ResNetV2](https://keras.io/api/applications/resnet/)
 * [PyTorch](https://pytorch.org/)
 
+___
 
 
 <!-- GETTING STARTED -->
@@ -73,12 +82,21 @@ Here's a video about the project
 
 In this project, you can see the 2 different branches. You can switch to a different branch to view its own component.
 
+___
+
+
 ### Server-Sentry (To be run on your laptop)
 In the server sentry contains the machine learning model that perform facial recognition w/wo mask.
 You are required to changed the iP Address to match the address for it to work
 
+___
+
+
 ### Client-Sentry (To be run on your raspberry pi)
 In the client sentry contains the open and close door function as well as getting the user's temperature.
+
+___
+
 
 ### Prerequisites
 
@@ -100,6 +118,9 @@ Please install version 2.4.0 TF
   pip install pandas
   ```
 
+___
+
+
 ### Installation
 
 1. Clone the repo
@@ -107,16 +128,28 @@ Please install version 2.4.0 TF
    git clone https://github.com/iamgruuten/Sentry-Project/
    ```
 
+___
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+___
+
+
 <!-- ROADMAP -->
 ## Roadmap
+
+___
+
 
 <!-- CONTRIBUTING -->
 ## Meet our team asteria who made this possible
 
 <a href="https://ibb.co/x5pqDX8"><img src="https://i.ibb.co/NY82stn/Whats-App-Image-2021-02-05-at-2-44-37-PM.jpg" alt="Whats-App-Image-2021-02-05-at-2-44-37-PM" border="0"></a>
+
+___
+
 
 <!-- CONTACT -->
 ## Contact
