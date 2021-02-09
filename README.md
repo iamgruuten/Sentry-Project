@@ -2,10 +2,9 @@
 <br />
 <p align="center">
  <a href="https://ibb.co/b5r47Tp">
-   <img src="https://i.ibb.co/LdCTvm4/Asteria-Logo.png" alt="Asteria-Logo" border="0">
+   <img src="https://i.ibb.co/LdCTvm4/Asteria-Logo.png" alt="Asteria-Logo" border="1">
   </a>
   <h3 align="center">Team Asteria</h3>
-
 </p>
 
 
@@ -37,6 +36,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<p align="center">
+ <a href="https://ibb.co/b5r47Tp">
+   <img src="https://ibb.co/Yh419Lj" alt="Asteria-Logo" border="1">
+  </a>
+  <h3 align="center">Team Asteria</h3>
+</p>
 
 [![Asteria Poster][Asteria]](https://ibb.co/Yh419Lj)
 
