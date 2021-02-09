@@ -1,7 +1,7 @@
 # Welcome to the server side
 The branch contains the machine learning model
 
-Issues that you will faced
+Issues that you might faced (only do this if you faced any issues)
 - No pb_model.pb found
 
 Github restricts a maximum of 25mb for uploading therefore a workaround is to install it manually
