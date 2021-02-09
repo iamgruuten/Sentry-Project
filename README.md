@@ -50,7 +50,7 @@ Here's why:
 * Costly and inefficient to have humans constantly checking SafeEntry log
 
 Here's a video about the project
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/8ZUMHWBw9uo)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/8ZUMHWBw9uo)
 
 ### Built With
 
