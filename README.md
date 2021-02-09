@@ -64,6 +64,8 @@ Here's a video about the project
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/8ZUMHWBw9uo)
 
+[![asciicast](https://youtu.be/8ZUMHWBw9uo)](https://youtu.be/8ZUMHWBw9uo)
+
 ___
 
 ### Built With
