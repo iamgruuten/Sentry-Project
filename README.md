@@ -38,13 +38,13 @@
 ## About The Project
 
 <p align="center">
- <a href="https://ibb.co/b5r47Tp">
-   <img src="https://ibb.co/Yh419Lj" alt="Asteria-Logo" border="1">
+ <a href="https://i.ibb.co/tDwvfJC/Whats-App-Image-2020-11-14-at-1-19-51-AM.jpg">
+   <img src="https://i.ibb.co/tDwvfJC/Whats-App-Image-2020-11-14-at-1-19-51-AM.jpg" alt="Asteria-Logo" border="1">
   </a>
   <h3 align="center">Sentry</h3>
 </p>
 
-[![Asteria Poster][Introudcing Sentry by Asteria]](https://ibb.co/Yh419Lj)
+[![Asteria Poster][Introudcing Sentry by Asteria]](https://i.ibb.co/tDwvfJC/Whats-App-Image-2020-11-14-at-1-19-51-AM.jpg)
 
 Portfolio 2 project to automate the signing in of students into the school using facial recognition, to take attendance conveniently and possibly replace SafeEntry checkin.
 
