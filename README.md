@@ -39,7 +39,7 @@
 
 <p align="center">
  <a href="https://ibb.co/b5r47Tp">
-   <img src="https://i.ibb.co/hFKGCbp/Asteria-Logo.png" alt="Asteria-Logo" border="1">
+   <img src="https://ibb.co/Yh419Lj" alt="Asteria-Logo" border="1">
   </a>
   <h3 align="center">Sentry</h3>
 </p>
