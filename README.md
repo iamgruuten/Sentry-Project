@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Asteria Poster][Asteria]](https://ibb.co/b5r47Tphttps://ibb.co/Yh419Lj)
+[![Asteria Poster][Asteria]](https://ibb.co/Yh419Lj)
 
 Portfolio 2 project to automate the signing in of students into the school using facial recognition, to take attendance conveniently and possibly replace SafeEntry checkin.
 
