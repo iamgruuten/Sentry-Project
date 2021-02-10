@@ -64,8 +64,6 @@ Here's a video about the project
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/8ZUMHWBw9uo)
 
-[![asciicast](https://youtu.be/8ZUMHWBw9uo)](https://youtu.be/8ZUMHWBw9uo)
-
 ___
 
 ### Built With
@@ -82,7 +80,7 @@ ___
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In this project, you can see the 2 different branches. You can switch to a different branch to view its own component.
+In this project, you can see the 2 different branches. You can switch to a different branch to view the componenets that helps to achieve the success of sentry the gantry
 
 ___
 
